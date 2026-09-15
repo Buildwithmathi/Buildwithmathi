@@ -1,3 +1,41 @@
+<h2 align="center">💗 My Learning Progress 💜</h2>
+
+<p align="center">
+  <i>Learning • Practicing • Building • Growing</i>
+</p>
+
+<p align="center">
+  <img src="./assets/python.svg" width="180">
+  <img src="./assets/sql.svg" width="180">
+  <img src="./assets/excel.svg" width="180">
+  <img src="./assets/data-analysis.svg" width="180">
+</p>
+
+<br>
+
+<h3 align="center">🧠 Libraries & Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-25%25-D946EF?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-25%25-C026D3?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-20%25-9333EA?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-15%25-DB2777?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-65%25-D946EF?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-10%25-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-15%25-EC4899?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</p>
+
+
+
+
+
+
+
+
+
 <p align="center">
   💗 Connect With Me On 💜
 
