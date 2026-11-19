@@ -1,6 +1,22 @@
-<p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Build With Mathi Animated Hero Banner"/>
-</p>
+
+<div align="center">
+
+# 💜 BUILD WITH MATHI
+
+### DATA SCIENCE & ARTIFICIAL INTELLIGENCE
+
+**Turning Ideas Into Practical Solutions.**
+
+*Learn • Explore • Build • Innovate*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Buildwithmathi&color=E653B9&style=flat-square&label=PROFILE+VIEWS)
+
+[![GitHub](https://img.shields.io/badge/GitHub-542078?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buildwithmathi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E653B9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumathi-thirunavukkarasu-a976163a6/)
+
+</div>
+
+---
 
 
 ## 🛠️ Tools & Technologies
