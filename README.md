@@ -68,3 +68,28 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-E653B9?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-E653B9?style=for-the-badge&logo=miro&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-E653B9?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumathi-thirunavukkarasu-a976163a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-542078?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Buildwithmathi">
+    <img src="https://img.shields.io/badge/GitHub-E653B9?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/codeswithmathi/">
+    <img src="https://img.shields.io/badge/LeetCode-542078?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/sumathiworkshrr">
+    <img src="https://img.shields.io/badge/HackerRank-E653B9?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>BUILD WITH MATHI</b><br/>
+  Turning ideas into practical solutions.
+</p>
+
